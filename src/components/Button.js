@@ -1,18 +1,16 @@
-import React from 'react';
+import React, {Component} from 'react';
 
-function Button(props) {
+class Button extends Component {
+render(){
 return (
 <div>
-<a href={props.link}>
+<a href={this.props.link}>
    <button type="button"
       className="btn btn-primary btn-lg">
-   {props.name}
+   {this.props.name}
    </button>
 </a>
-<div className="card-body">
-    {/* <p className="card-text">subtext</p> */}
-</div>
 </div>
 )} 
-
+}
 export default Button;

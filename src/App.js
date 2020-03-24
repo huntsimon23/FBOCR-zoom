@@ -2,8 +2,9 @@ import React, { Component }  from 'react';
 import logo from './logo.svg';
 import Header from './components/Header';
 import Button from './components/Button';
+import Youtube from './components/Youtube';
 import './App.css';
-import zoomdata from './zoomdata.json'
+import zoomdata from './zoomdata.json';
 
 class App extends Component {
   state = {
@@ -14,7 +15,17 @@ class App extends Component {
     <div className="App">
       <header className="App-header">
       <Header />
-      
+      <hr />
+      <h4 className="text-center">
+      <span>This week's video: 
+      Dealing with isolation and preventing relapse</span>   
+      </h4>  
+      <hr />   
+      <Youtube 
+      name="Defeating Isolation"
+      ytlink="https://www.youtube.com/embed/zRjtMQxuRRc"
+      /> 
+      <hr />
       <div className="container container-fluid">
       <div className="row">  
         {zoomdata.map(zoom => (
@@ -28,17 +39,6 @@ class App extends Component {
         ))}
         </div>
         <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
       </div>
       </header>
     </div>

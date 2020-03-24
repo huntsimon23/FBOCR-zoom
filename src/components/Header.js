@@ -1,6 +1,8 @@
-import React from 'react';
+import React, { Component } from 'react';
+import Button from './Button'
 
-function Header() {
+class Header extends Component {
+render(){    
 return (
 <div> 
     <img 
@@ -8,8 +10,20 @@ return (
     src="./assets/CR-logo-hrz-color.png" 
     alt="CRlogo"       
     />
-    <h3 className="text-center">First Baptist Orlando's CR Linktree</h3>
+    <br />
+    <br />
+    <h1 className="text-center">First Baptist Orlando's Online Open Share Groups</h1>
+    <br />
+    <h4>Please note: These groups are open for all who have been thru our Newcomers 101 orentation here at FBOCR.  If you are new to CR at First Orlando, please complete this short form and a member of our team will schedule a Newcomers 101 session with you! </h4>
+    <br />
+    <Button 
+       id="Newcomers 101"
+       key="Newcomers 101"
+       name="Request Newcomers 101 Orientation"
+       link="https://fbocr.churchcenter.com/people/forms/117331"
+    />
 </div>
 )}
+}
 
 export default Header;
