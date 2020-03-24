@@ -53,7 +53,6 @@ class App extends Component {
         <button className="btn btn-danger btn-lg">
         An overview of Zoom & CR
         </button></a>
-        <iframe title="vimeo-player" src="https://player.vimeo.com/video/400016656" width="640" height="400" frameborder="0" allowfullscreen></iframe>
       </div>
     </div>
 
