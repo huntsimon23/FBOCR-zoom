@@ -3,15 +3,15 @@ import React from 'react';
 function Button(props) {
 return (
 <div>
-   <button 
-   className="button btn-primary"
-//    onClick={props.link}
-   >
-   NAME
+<a href={props.link}>
+   <button type="button"
+      className="btn btn-primary btn-lg">
+   {props.name}
    </button>
-   <div className="card-body">
-    <p className="card-text">subtext</p>
-   </div>
+</a>
+<div className="card-body">
+    {/* <p className="card-text">subtext</p> */}
+</div>
 </div>
 )} 
 

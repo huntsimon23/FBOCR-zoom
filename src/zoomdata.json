@@ -1,0 +1,31 @@
+[
+    {
+        "id": 1,    
+        "name": "MEN - Addictive Behaviors & Welcome Home (Veterans)",
+        "link": "https://zoom.us/j/279320098"
+    },{
+        "id": 2,    
+        "name": "MEN - Anger, Anxiety, & Life Issues",
+        "link": "https://zoom.us/j/748193907"
+    },{
+        "id": 3,    
+        "name": "MEN - Sexual Integrity",
+        "link": "https://zoom.us/j/264419136"
+    },{
+        "id": 4,    
+        "name": "WOMEN - Addictive Behaviors",
+        "link": "https://zoom.us/j/849265372"
+    },{
+        "id": 5,    
+        "name": "WOMEN - Codependency & Life Issues",
+        "link": "https://zoom.us/j/338863419"
+    },{
+        "id": 6,    
+        "name": "WOMEN - SPEVA",
+        "link": "https://zoom.us/j/432015303"
+    },{
+        "id": 7,    
+        "name": "WOMEN - COSA",
+        "link": "https://zoom.us/j/579479896"
+    }
+]
