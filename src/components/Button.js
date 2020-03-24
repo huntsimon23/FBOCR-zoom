@@ -10,6 +10,7 @@ return (
    {this.props.name}
    </button>
 </a>
+<hr />
 </div>
 )} 
 }
