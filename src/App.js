@@ -24,7 +24,7 @@ class App extends Component {
       <br />   
       <Youtube 
       name="Peace in the Pandemic - Mac and Mary Owen"
-      ytlink="https://youtu.be/-zRAmi8ff9c?t=424"
+      ytlink="https://www.youtube.com/embed/-zRAmi8ff9c?start=424"
       /> 
       <hr />
       <div className = "row">
