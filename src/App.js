@@ -19,14 +19,16 @@ class App extends Component {
       <hr />
       <h2 className="text-center">
       <span>This week's video: 
-      Dealing with isolation and preventing relapse</span>   
+      Peace in the Pandemic - Mac and Mary Owen</span>   
       </h2>  
       <br />   
       <Youtube 
-      name="Defeating Isolation"
-      ytlink="https://www.youtube.com/embed/zRjtMQxuRRc"
+      name="Peace in the Pandemic - Mac and Mary Owen"
+      ytlink="https://youtu.be/-zRAmi8ff9c?t=424"
       /> 
       <hr />
+      <div className = "row">
+      <div className = "col">
       <h2>Open Share Groups - Start at 7:30pm EST</h2>
       <h6 className="text-center">
       <span>These rooms will open at 7:30pm on Tuesday nights beginning 3/25/2020.  The group host will go over guidelines that must be followed at ALL times.  The group host has been asked to strictly enforce these guidelines for the safety of the entire group.  You can read more about these guidelines at <a href="https://www.celebraterecovery.com/crcr" font-weight="strong" target="_blank">CelebrateRecovery.com</a>
@@ -34,6 +36,8 @@ class App extends Component {
       <br />
       A password is required to access the room - if you do not have one, contact <a href="mailto:celebraterecovery@firstorlando.com">celebraterecovery@firstorlando.com</a>.  Please note that all participants are required to complete Newcomers 101 orientation before joining an online FBOCR open share group!  </span>   
       </h6>
+      </div>
+      </div>
       <hr />
         <div className="container container-fluid">
           {zoomdata.map(zoom => (
@@ -53,6 +57,9 @@ class App extends Component {
         <button className="btn btn-danger btn-lg">
         An overview of Zoom & CR
         </button></a>
+        <br />
+        <br />
+        <br />
       </div>
     </div>
 

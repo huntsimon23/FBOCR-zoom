@@ -4,7 +4,7 @@ import Button from './Button'
 class Header extends Component {
 render(){    
 return (
-<div> 
+<div className = "container"> 
     <img 
     className="img-fluid img-thumbnail"
     src="./assets/CR-logo-hrz-color.png" 
