@@ -23,8 +23,8 @@ class App extends Component {
       </h2>  
       <br />   
       <Youtube 
-      name="Peace in the Pandemic - Mac and Mary Owen"
-      ytlink="https://www.youtube.com/embed/-zRAmi8ff9c?start=424"
+      name="Cheryl Luke: Learn the unforced rhythms of God's Grace"
+      ytlink="https://youtu.be/VcvptyIBYwk?t=502"
       /> 
       <hr />
       <div className = "row">
