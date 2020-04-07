@@ -19,7 +19,7 @@ class App extends Component {
       <hr />
       <h2 className="text-center">
       <span>This week's video: 
-      Peace in the Pandemic - Mac and Mary Owen</span>   
+      Cheryl Luke: Learn the unforced rhythms of God's Grace</span>   
       </h2>  
       <br />   
       <Youtube 
