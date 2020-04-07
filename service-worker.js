@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/FBOCR-zoom/precache-manifest.37ce7fbd11150976615f93d6aeef939a.js"
+  "/FBOCR-zoom/precache-manifest.6f6e41e4bb35c74caff0c4ef2c685aa2.js"
 );
 
 self.addEventListener('message', (event) => {
