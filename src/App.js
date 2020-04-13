@@ -19,13 +19,10 @@ class App extends Component {
       <hr />
       <h2 className="text-center">
       <span>This week's video: 
-      Cheryl Luke: Learn the unforced rhythms of God's Grace</span>   
+      Rodney & Carol Holmstrom: Replenishing through Prayer</span>   
       </h2>  
       <br />   
-      <Youtube 
-      name="Cheryl Luke: Learn the unforced rhythms of God's Grace"
-      ytlink="https://youtu.be/VcvptyIBYwk?t=502"
-      /> 
+      <Youtube /> 
       <hr />
       <div className = "row">
       <div className = "col">
