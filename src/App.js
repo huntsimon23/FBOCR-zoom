@@ -55,6 +55,12 @@ class App extends Component {
         An overview of Zoom & CR
         </button></a>
         <br />
+        <Button 
+          id="10"
+          key="10"
+          name="Zoom Ettiquette"
+          link="https://drive.google.com/file/d/1fdw79xTlMFCsjoF8AhA18lQ6N4ziFFn0/view"
+        />
         <br />
         <br />
       </div>
