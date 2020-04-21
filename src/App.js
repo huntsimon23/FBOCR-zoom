@@ -19,8 +19,8 @@ class App extends Component {
       <hr />
       <h2 className="text-center">
       <span>This week's video: 
-      Rodney & Carol Holmstrom: Replenishing through Prayer</span>   
-      </h2>  
+      Sabrena and Allen Stolze - Boundaries</span>   
+      </h2>
       <br />   
       <Youtube /> 
       <hr />
