@@ -19,7 +19,7 @@ class App extends Component {
       <hr />
       <h2 className="text-center">
       <span>This week's video: 
-      Sabrena and Allen Stolze - Boundaries</span>   
+      Damon Barnes - Dealing with ANTS (Anxious Negative ThoughtS)</span>   
       </h2>
       <br />   
       <Youtube /> 
