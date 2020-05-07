@@ -19,7 +19,7 @@ class App extends Component {
       <hr />
       <h2 className="text-center">
       <span>This week's video: 
-      Damon Barnes - Dealing with ANTS (Anxious Negative ThoughtS)</span>   
+      Damon Barnes - Grace, Truth, Time</span>   
       </h2>
       <br />   
       <Youtube /> 
