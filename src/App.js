@@ -19,7 +19,7 @@ class App extends Component {
       <hr />
       <h2 className="text-center">
       <span>This week's video: 
-      Damon Barnes - Grace, Truth, Time</span>   
+      CR Online Summit Details!</span>   
       </h2>
       <br />   
       <Youtube /> 
