@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "cdd41cdeba1817250d8034f7dc10b0a0",
+    "revision": "f132ab912dbf767ad069697704a35d17",
     "url": "/FBOCR-zoom/index.html"
   },
   {
-    "revision": "a0cfe11c2308780746cf",
+    "revision": "06ad9dfb38231d7dcef6",
     "url": "/FBOCR-zoom/static/css/main.784460a5.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/FBOCR-zoom/static/js/2.0e8907c2.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "a0cfe11c2308780746cf",
-    "url": "/FBOCR-zoom/static/js/main.fb2e6379.chunk.js"
+    "revision": "06ad9dfb38231d7dcef6",
+    "url": "/FBOCR-zoom/static/js/main.6919c418.chunk.js"
   },
   {
     "revision": "c25e7cba3c6ea518577f",
