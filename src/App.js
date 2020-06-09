@@ -19,7 +19,7 @@ class App extends Component {
       <hr />
       <h2 className="text-center">
       <span>This week's video: 
-      CR Online Summit Details!</span>   
+      Created in God's Image with Johnny, Jeni and Cheryl Luke</span>   
       </h2>
       <br />   
       <Youtube /> 
