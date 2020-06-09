@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "f132ab912dbf767ad069697704a35d17",
+    "revision": "32bc926ea68e3f96f54786fb3551e91f",
     "url": "/FBOCR-zoom/index.html"
   },
   {
