@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/FBOCR-zoom/static/css/main.784460a5.chunk.css",
-    "main.js": "/FBOCR-zoom/static/js/main.211c7b3f.chunk.js",
-    "main.js.map": "/FBOCR-zoom/static/js/main.211c7b3f.chunk.js.map",
+    "main.js": "/FBOCR-zoom/static/js/main.37260451.chunk.js",
+    "main.js.map": "/FBOCR-zoom/static/js/main.37260451.chunk.js.map",
     "runtime-main.js": "/FBOCR-zoom/static/js/runtime-main.5ca9f28a.js",
     "runtime-main.js.map": "/FBOCR-zoom/static/js/runtime-main.5ca9f28a.js.map",
-    "static/js/2.0e8907c2.chunk.js": "/FBOCR-zoom/static/js/2.0e8907c2.chunk.js",
-    "static/js/2.0e8907c2.chunk.js.map": "/FBOCR-zoom/static/js/2.0e8907c2.chunk.js.map",
+    "static/js/2.1086f22b.chunk.js": "/FBOCR-zoom/static/js/2.1086f22b.chunk.js",
+    "static/js/2.1086f22b.chunk.js.map": "/FBOCR-zoom/static/js/2.1086f22b.chunk.js.map",
     "index.html": "/FBOCR-zoom/index.html",
-    "precache-manifest.5f206cd103d144b666f05370b5110305.js": "/FBOCR-zoom/precache-manifest.5f206cd103d144b666f05370b5110305.js",
+    "precache-manifest.f81559c0d584a0884d6b49c063f07375.js": "/FBOCR-zoom/precache-manifest.f81559c0d584a0884d6b49c063f07375.js",
     "service-worker.js": "/FBOCR-zoom/service-worker.js",
     "static/css/main.784460a5.chunk.css.map": "/FBOCR-zoom/static/css/main.784460a5.chunk.css.map",
-    "static/js/2.0e8907c2.chunk.js.LICENSE.txt": "/FBOCR-zoom/static/js/2.0e8907c2.chunk.js.LICENSE.txt"
+    "static/js/2.1086f22b.chunk.js.LICENSE.txt": "/FBOCR-zoom/static/js/2.1086f22b.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.5ca9f28a.js",
-    "static/js/2.0e8907c2.chunk.js",
+    "static/js/2.1086f22b.chunk.js",
     "static/css/main.784460a5.chunk.css",
-    "static/js/main.211c7b3f.chunk.js"
+    "static/js/main.37260451.chunk.js"
   ]
 }
