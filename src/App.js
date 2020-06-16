@@ -2,6 +2,7 @@ import React, { Component }  from 'react';
 import Header from './components/Header';
 import Button from './components/Button';
 import Youtube from './components/Youtube';
+import Youtube2 from './components/Youtube2';
 import './App.css';
 import zoomdata from './zoomdata.json';
 
@@ -19,10 +20,11 @@ class App extends Component {
       <hr />
       <h2 className="text-center">
       <span>This week's video: 
-      Created in God's Image with Johnny, Jeni and Cheryl Luke</span>   
+      Testimony Interview - Annie & Simon</span>   
       </h2>
       <br />   
-      <Youtube /> 
+      <Youtube />
+      <Youtube2 /> 
       <hr />
       <div className = "row">
       <div className = "col">
