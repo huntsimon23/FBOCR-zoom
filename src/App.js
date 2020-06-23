@@ -20,11 +20,10 @@ class App extends Component {
       <hr />
       <h2 className="text-center">
       <span>This week's video: 
-      Testimony Interview - Annie & Simon</span>   
+      What Consumes Me Controls Me</span>   
       </h2>
       <br />   
       <Youtube />
-      <Youtube2 /> 
       <hr />
       <div className = "row">
       <div className = "col">
