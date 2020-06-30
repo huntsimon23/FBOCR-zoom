@@ -20,7 +20,7 @@ class App extends Component {
       <hr />
       <h2 className="text-center">
       <span>This week's video: 
-      What Consumes Me Controls Me</span>   
+      God exists and I matter to Him!</span>   
       </h2>
       <br />   
       <Youtube />
