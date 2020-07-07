@@ -18,9 +18,16 @@ class App extends Component {
       <Header />
       </header>
       <hr />
+      <Youtube2 />
+      <Button 
+       id="Announcements"
+       key="Announcements"
+       name="Weekly Announcements and more at FirstOrlandoRecovery.com"
+       link="http://firstorlandorecovery.com"
+      />
       <h2 className="text-center">
       <span>This week's video: 
-      God exists and I matter to Him!</span>   
+      The Value of Sharing Your Story</span>   
       </h2>
       <br />   
       <Youtube />
