@@ -18,7 +18,7 @@ class App extends Component {
       <Header />
       </header>
       <hr />
-      <Youtube2 />
+      {/* <Youtube2 /> */}
       <Button 
        id="Announcements"
        key="Announcements"
@@ -27,7 +27,7 @@ class App extends Component {
       />
       <h2 className="text-center">
       <span>This week's video: 
-      The Value of Sharing Your Story</span>   
+      Lesson 01: Denial</span>   
       </h2>
       <br />   
       <Youtube />
