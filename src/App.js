@@ -27,7 +27,7 @@ class App extends Component {
       />
       <h2 className="text-center">
       <span>This week's video: 
-      Lesson 01: Denial</span>   
+      Lesson 02: Powerless</span>   
       </h2>
       <br />   
       <Youtube />
