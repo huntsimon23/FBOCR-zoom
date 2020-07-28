@@ -18,7 +18,7 @@ class App extends Component {
       <Header />
       </header>
       <hr />
-      {/* <Youtube2 /> */}
+      <Youtube2 />
       <Button 
        id="Announcements"
        key="Announcements"
